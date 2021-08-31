@@ -12,3 +12,9 @@ The server uses the data from two of these amazing servers namely:
 - darksky.net
 
 Server deployed via Heroku.
+
+Images of the Server:
+
+![Screenshot (1187)](https://user-images.githubusercontent.com/71975382/131537671-9b646297-f6fd-4cbf-871c-48ed34c36255.png)
+![Screenshot (1188)](https://user-images.githubusercontent.com/71975382/131537681-9225945e-d997-4985-81b8-0d3be6be25b6.png)
+
